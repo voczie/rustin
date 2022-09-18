@@ -19,8 +19,11 @@ It's the package manager of Rust language, and it's already built-in! It's also 
 
 # Wait, but what is a "Crate"?
 A Crate is a *package* (remember that Cargo is the *package* manager!) written in Rust, and it can be shared to the internet via *"crates.io"*.
+
 It's normally named with *snake_case*, but it's possible to see a crate named with *kebab-case*.
+
 All installed crates are stored in the *.cargo/bin* directory.
+
 A Crate can be *binary* type or *library* type. 
 
 ## Binary Crate
