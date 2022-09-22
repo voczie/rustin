@@ -1,5 +1,3 @@
-
-
 fn main(){
     // Arithmetic Operators
 
@@ -93,5 +91,5 @@ fn main(){
 
     println!("a = {}, b = {}", a, b);
 
-    // Borrowing and Dereference Operators
+    // Borrowing (& and &mut) and Dereference (*) Operators - Not gonna do it right now
 }
