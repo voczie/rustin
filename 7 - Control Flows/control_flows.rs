@@ -49,7 +49,7 @@ fn main(){
 
     println!("Current team size: {}", team_size_in_text);
 
-    ////
+    //// idk
     let team_size = 7;
     let team_size = 
     if team_size < 5{
